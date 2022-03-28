@@ -21,6 +21,6 @@ public class FirstSpringApplication {
 		//GameRunner runner = new GameRunner(game);
 		
 		runner.runGame();
-	}
+	} 
 
 }
